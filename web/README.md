@@ -1,3 +1,0 @@
-# web
-
-thislis.kro.kr
